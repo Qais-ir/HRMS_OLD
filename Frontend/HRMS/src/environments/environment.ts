@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://hrms1.runasp.net/api' 
+  apiUrl: 'https://hrms2.runasp.net/api' 
 };
